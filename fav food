@@ -1,0 +1,6 @@
+fill (255, 0, 0);
+textSize(30);
+text("My Favorite Foods",100,30);
+text("1.broccoli",100,60);
+text("2.cheese!",100,90);
+text("3.whats yours??",100,120);
