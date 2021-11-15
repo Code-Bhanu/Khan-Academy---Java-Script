@@ -1,0 +1,15 @@
+var draw_name = function() {
+ var textX = random(0, 300);
+var textY = random(0, 300);
+var yourName = "Bhanu Prakash";
+
+fill(255, 0, 0);
+textSize(30);
+text("Hiiii, " + yourName, textX, textY);    
+};
+
+
+draw_name();
+draw_name();
+draw_name();
+draw_name();
