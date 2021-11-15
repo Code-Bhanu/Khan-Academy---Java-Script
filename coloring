@@ -1,0 +1,12 @@
+background(92, 205, 242);
+fill(89, 247, 89);
+// The ground
+rect(0, 300, 400, 100);  
+fill(222, 200, 33);
+// The sun
+ellipse(80, 64, 100, 100);  
+fill(255, 252, 255);
+// The snowman
+ellipse(200, 300, 150, 150);
+ellipse(200, 200, 100, 100);
+ellipse(200, 120, 75, 75);
