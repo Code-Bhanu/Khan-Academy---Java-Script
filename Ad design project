@@ -1,0 +1,24 @@
+fill(255, 0, 0);
+var x = 10;
+var y = 30;
+
+var draw = function ()  {
+background(245, 235, 235);
+textSize(30);
+fill(219, 17, 132);
+text("CRISPY BITE!", x, y);
+textSize(20);
+fill(0, 0, 255);
+text("Potato Chips",x+10,y+30);
+textSize(20);
+fill(0, 0, 255);
+text("Cannot leave a piece",x+10,y+50); 
+x += 1;
+y += 1 ;
+};
+
+    
+
+
+
+
